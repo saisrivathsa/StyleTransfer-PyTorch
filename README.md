@@ -5,7 +5,7 @@ The paper outlining the transfer method can be found [here](https://www.cv-found
 ## Setting up the environment
 You can install the required pacakages to run this notebook by running:
 
-    pip install -r requirements
+    pip install -r requirements.txt
 
 This notebook works on both CPU and GPU.
 
