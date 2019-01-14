@@ -3,7 +3,7 @@ Implementation of image style transfer in PyTorch.
 The paper outlining the transfer method can be found [here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf).
 
 ## Setting up the environment
-You can install the required pacakages to run this notebook by running:
+You can install the required packages to run this notebook by running:
 
     pip install -r requirements.txt
 
