@@ -38,7 +38,7 @@ parso==0.8.4
 partd==1.4.2
 pexpect==4.6.0
 pickleshare==0.7.5
-pillow==10.3.0
+pillow==13.0.0
 prompt_toolkit==3.0.51
 ptyprocess==0.6.0
 pure_eval==0.2.3
