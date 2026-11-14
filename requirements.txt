@@ -59,7 +59,7 @@ tifffile==2025.6.11
 toolz==1.0.0
 torch==2.7.1
 torchvision==0.22.1
-tornado==6.4.1
+tornado==6.6.1
 traitlets==5.14.3
 typing_extensions==4.14.0
 urllib3==2.2.1
